@@ -98,8 +98,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-#� �m�a�r�k�e�t�-�p�l�a�c�e�-�r�e�a�c�t�-�v�1�
-�
-�# market-place-v2
-# market-place-v2
+
 # market-place-v2
